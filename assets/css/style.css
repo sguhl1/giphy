@@ -1,0 +1,14 @@
+body {
+  background-color: bisque
+}
+
+
+.foodImage {
+  margin: 20px;
+}
+
+#foodsView {
+width: 60%;
+}
+
+
