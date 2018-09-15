@@ -37,7 +37,7 @@ var foods = ['Apples', 'Hamburgers', 'Hotdogs', 'Yogurt', 'Broccoli'];
                foodImage.attr('data-animate', results[i].images.fixed_height.url);
                foodImage.attr('data-state', 'still');
                foodImage.addClass('foodImage');
-               foodImage.
+               
                
               
                $('#foodsView').append(foodImage);
