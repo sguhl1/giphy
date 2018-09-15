@@ -1,5 +1,4 @@
-// Initial array of cartoons
-  var foods = ['Apples', 'Hamburgers', 'Hotdogs', 'Yogurt', 'Broccoli'];
+var foods = ['Apples', 'Hamburgers', 'Hotdogs', 'Yogurt', 'Broccoli'];
 
   function displayfoodInfo(){
   
